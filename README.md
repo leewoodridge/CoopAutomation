@@ -1,2 +1,2 @@
-# CoopAutomation
-Chicken Coop Automation
+# Arduino Chicken Coop Automation Script
+This project is incomplete and untested
